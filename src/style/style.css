@@ -1,0 +1,33 @@
+.img-fundo {
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.4)), /* sombra escura */
+    url('../images/fundo-inicio.webp'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 30rem;
+}
+
+.img-card {
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  margin: auto;
+}
+
+.img-carrocel {
+  width: 100%;
+}
+
+.img-fundo2 {
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.4)), /* sombra escura */
+    url('../images/fundo-final.webp'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 30rem;
+}
